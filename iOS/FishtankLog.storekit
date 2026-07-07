@@ -1,0 +1,40 @@
+{
+  "identifier" : "FishtankLog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "FISHTANKLOG_GROUP",
+      "localizations" : [],
+      "name" : "FishtankLog Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "FISHTANKLOG_MONTHLY",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock Parameter trend charts and dosing reminders",
+              "displayName" : "FishtankLog Pro Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.fishtanklog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "FishtankLog Pro Monthly",
+          "subscriptionGroupID" : "FISHTANKLOG_GROUP",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
